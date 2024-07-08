@@ -16,6 +16,7 @@ a{
     border-radius: 8px;
     cursor: pointer;
     max-height: 358px;
+    animation: start 2s ease ;
 }
 .img_wrapper{
     width: 100%;

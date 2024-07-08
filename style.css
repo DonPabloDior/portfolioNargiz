@@ -28,6 +28,7 @@ body {
     gap: 88px;
     justify-content: center;
     padding-top: 2rem;
+    animation: start 1s ease;
 }
 
 .burder{
@@ -69,12 +70,16 @@ body {
     font-family: var(--main-font);
     font-size: 5rem;
     font-weight: 400;
+    animation: start 2s ease ;
 }
-
+.sticker{
+    animation: start 2s ease ;
+}
 h2, h3{
     font-family: var(--accent-font);
     font-weight: 200;
     margin-top: 16px;
+    animation: start 2s ease ;
 }
 
 h2{
@@ -91,6 +96,7 @@ h3{
 
 .main_photo{
    margin-left: 12px;
+   animation: start 2.5s ease ;
 }
 
 .about_wrap{
@@ -103,6 +109,7 @@ h3{
     font-size: 3.25rem;
     font-weight: 400;
     margin-top: 40px;
+    animation: start 2s ease ;
 }
 
 .p_about{
@@ -110,6 +117,7 @@ h3{
     font-size: 1.75rem;
     font-weight: 400;
     margin-top: 32px;
+    animation: start 2s ease ;
 }
 
 .portfolio_button{

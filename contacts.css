@@ -1,6 +1,7 @@
 .contacts_info{
     font-family: var(--main-font);
     font-size: 3.25rem;
+    animation: start 2s ease ;
 }
 
 .info_wrap{
