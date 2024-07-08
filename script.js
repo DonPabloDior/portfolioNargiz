@@ -10,7 +10,7 @@ gsap.from(".title", { opacity: 0, duration: 1, y: 20, delay: 0.5 });
 gsap.from(".sticker", { opacity: 0, duration: 1, y: 20, delay: 0.7 });
 gsap.from(".info_wrap", { opacity: 0, duration: 1, y: 20, delay: 0.7 });
 gsap.from(".title_about", { opacity: 0, duration: 1, y: 20, delay: 0.5 });
-gsap.from(".p_about", { opacity: 0, duration: 1, y: 20, delay: 0.7 });
+
 gsap.from(".lopa", { opacity: 0, duration: 1, y: 20, delay: 0.9 });
 gsap.from(".main_photo", { opacity: 0, duration: 1, y: 20, delay: 1.2 });
 gsap.from(".sd", { opacity: 0, duration: 1, y: 20, delay: 0.9 });

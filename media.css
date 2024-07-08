@@ -89,10 +89,8 @@
         width: clamp(3.5rem, -15.25rem + 80vw, 6.25rem);
     }
     .main_photo{
-        width: clamp(20.688rem, -33.858rem + 232.73vw, 28.688rem);
-        position: absolute;
-        bottom: 68px;
-        right: 74px;
+        width: 100%;
+        margin-left: 0;
     }
     .contacts_info{
         font-size: clamp(1.25rem, -1.818rem + 13.09vw, 1.7rem);
